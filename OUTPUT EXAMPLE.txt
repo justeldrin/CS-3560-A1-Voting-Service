@@ -1,0 +1,941 @@
+Creating Voting Service Object and Adding Random # of Students
+Current # of students in the Voting Service: 24
+Creating 2 Questions, one allowing multiple selections, one allowing single selection
+
+Testing Single Choice Question
+-------------------------------
+David's answer: [A]
+David is incorrect!
+
+Cecilia's answer: [B]
+Cecilia is incorrect!
+
+Marcus's answer: [D]
+Marcus is incorrect!
+
+Sophie's answer: [F]
+Sophie is incorrect!
+
+Oliver's answer: [C]
+Oliver is correct!
+
+Timothy's answer: [E]
+Timothy is incorrect!
+
+Jason's answer: [F]
+Jason is incorrect!
+
+Timothy's answer: [C]
+Timothy is correct!
+
+Cleo's answer: [E]
+Cleo is incorrect!
+
+Jasmine's answer: [E]
+Jasmine is incorrect!
+
+Charlie's answer: [B]
+Charlie is incorrect!
+
+Tom's answer: [F]
+Tom is incorrect!
+
+Elena's answer: [F]
+Elena is incorrect!
+
+Jeremy's answer: [A]
+Jeremy is incorrect!
+
+Alex's answer: [C]
+Alex is correct!
+
+Dianne's answer: [F]
+Dianne is incorrect!
+
+Edward's answer: [C]
+Edward is correct!
+
+Jasmine's answer: [D]
+Jasmine is incorrect!
+
+Tyler's answer: [E]
+Tyler is incorrect!
+
+Jeremy's answer: [A]
+Jeremy is incorrect!
+
+Homelander's answer: [F]
+Homelander is incorrect!
+
+Mark's answer: [C]
+Mark is correct!
+
+Viktoria's answer: [D]
+Viktoria is incorrect!
+
+David's answer: [F]
+David is incorrect!
+
+-------------------------------
+Question: : A, B, C, D, E, or F?
+Answer Choices: [A, B, C, D, E, F]
+Correct Answer: [C]
+
+SUBMISSION RESULTS:
+Correct Students: 5
+Incorrect Students: 19
+Answer Statistics:{A=3, B=2, C=5, D=3, E=4, F=7}
+-------------------------------
+RESETTING SERVICE
+
+Generating Random # of Studnets
+Current # of students in the Voting Service: 26
+Testing Multiple Selection Question
+-------------------------------
+Edward's answer: [A, B, E, F]
+Edward is incorrect!
+
+Addision's answer: [A, B, D]
+Addision is incorrect!
+
+Charlie's answer: [A, B, E]
+Charlie is incorrect!
+
+Tom's answer: [A, B, D, E, F]
+Tom is correct!
+
+Thor's answer: [B, C, D, E, F]
+Thor is incorrect!
+
+Oliver's answer: [B, D, E]
+Oliver is incorrect!
+
+Edward's answer: [A, B, C, D, E, F]
+Edward is incorrect!
+
+Dwight's answer: [B, C, F]
+Dwight is incorrect!
+
+Thor's answer: [A, B, C, D, E, F]
+Thor is incorrect!
+
+Julie's answer: [A, B, C, D, E, F]
+Julie is incorrect!
+
+James's answer: [A, B, C, D, E, F]
+James is incorrect!
+
+Thomson's answer: [A, B, C, E]
+Thomson is incorrect!
+
+Charlie's answer: [A, B, C, E, F]
+Charlie is incorrect!
+
+Victor's answer: [A, B, C, D, F]
+Victor is incorrect!
+
+Daimon's answer: [A, B, C, D]
+Daimon is incorrect!
+
+Joe's answer: [B, C, D, E, F]
+Joe is incorrect!
+
+Alex's answer: [A, C, D]
+Alex is incorrect!
+
+Edward's answer: [A, D, E]
+Edward is incorrect!
+
+Daimon's answer: [A, B, C, D, E, F]
+Daimon is incorrect!
+
+James's answer: [A, D]
+James is incorrect!
+
+Jeremy's answer: [B]
+Jeremy is incorrect!
+
+Charlie's answer: [A, B, C, D, E]
+Charlie is incorrect!
+
+Marcus's answer: [A, B, C, D]
+Marcus is incorrect!
+
+Tyrone's answer: [A, B, C, D]
+Tyrone is incorrect!
+
+Batman's answer: [A, C, D, E, F]
+Batman is incorrect!
+
+Sophie's answer: [E, F]
+Sophie is incorrect!
+
+-------------------------------
+Question: : A, B, C, D, E, or F?
+Answer Choices: [A, B, C, D, E, F]
+Correct Answer: [A, B, D, E, F]
+
+SUBMISSION RESULTS:
+Correct Students: 1
+Incorrect Students: 25
+Answer Statistics:{A=20, B=21, C=17, D=19, E=17, F=14}
+-------------------------------
+RESETTING SERVICE
+
+Generating Random # of Studnets
+Current # of students in the Voting Service: 26
+Testing Single Selection Question with Two Options
+-------------------------------
+Edward's answer: [A]
+Edward is incorrect!
+
+Addision's answer: [A]
+Addision is incorrect!
+
+Charlie's answer: [B]
+Charlie is correct!
+
+Tom's answer: [B]
+Tom is correct!
+
+Thor's answer: [B]
+Thor is correct!
+
+Oliver's answer: [A]
+Oliver is incorrect!
+
+Edward's answer: [B]
+Edward is correct!
+
+Dwight's answer: [B]
+Dwight is correct!
+
+Thor's answer: [A]
+Thor is incorrect!
+
+Julie's answer: [B]
+Julie is correct!
+
+James's answer: [A]
+James is incorrect!
+
+Thomson's answer: [A]
+Thomson is incorrect!
+
+Charlie's answer: [B]
+Charlie is correct!
+
+Victor's answer: [B]
+Victor is correct!
+
+Daimon's answer: [A]
+Daimon is incorrect!
+
+Joe's answer: [A]
+Joe is incorrect!
+
+Alex's answer: [A]
+Alex is incorrect!
+
+Edward's answer: [A]
+Edward is incorrect!
+
+Daimon's answer: [A]
+Daimon is incorrect!
+
+James's answer: [B]
+James is correct!
+
+Jeremy's answer: [B]
+Jeremy is correct!
+
+Charlie's answer: [B]
+Charlie is correct!
+
+Marcus's answer: [B]
+Marcus is correct!
+
+Tyrone's answer: [A]
+Tyrone is incorrect!
+
+Batman's answer: [B]
+Batman is correct!
+
+Sophie's answer: [B]
+Sophie is correct!
+
+-------------------------------
+Question: : A, B, C, D, E, or F?
+Answer Choices: [A, B]
+Correct Answer: [B]
+
+SUBMISSION RESULTS:
+Correct Students: 14
+Incorrect Students: 12
+Answer Statistics:{A=12, B=14}
+-------------------------------
+RESETTING SERVICE
+Testing Single Selection Question while Simulating Students changing Answers
+-------------------------------
+Edward has changed their answer to: [A]
+Edward has changed their answer to: [A]
+Edward has changed their answer to: [A]
+Edward has changed their answer to: [A]
+Edward has changed their answer to: [B]
+
+Addision has changed their answer to: [A]
+
+Charlie has changed their answer to: [A]
+Charlie has changed their answer to: [B]
+
+Tom has changed their answer to: [A]
+Tom has changed their answer to: [A]
+Tom has changed their answer to: [A]
+Tom has changed their answer to: [B]
+Tom has changed their answer to: [B]
+
+Thor has changed their answer to: [B]
+Thor has changed their answer to: [A]
+Thor has changed their answer to: [A]
+Thor has changed their answer to: [A]
+
+Oliver has changed their answer to: [A]
+
+Edward has changed their answer to: [B]
+Edward has changed their answer to: [B]
+Edward has changed their answer to: [A]
+Edward has changed their answer to: [B]
+Edward has changed their answer to: [B]
+
+Dwight has changed their answer to: [B]
+Dwight has changed their answer to: [A]
+
+Thor has changed their answer to: [A]
+Thor has changed their answer to: [A]
+
+Julie has changed their answer to: [B]
+
+James has changed their answer to: [B]
+James has changed their answer to: [A]
+James has changed their answer to: [B]
+James has changed their answer to: [B]
+
+Thomson has changed their answer to: [B]
+Thomson has changed their answer to: [B]
+
+Charlie has changed their answer to: [A]
+Charlie has changed their answer to: [B]
+
+Victor has changed their answer to: [B]
+Victor has changed their answer to: [A]
+Victor has changed their answer to: [A]
+
+Daimon has changed their answer to: [A]
+Daimon has changed their answer to: [B]
+Daimon has changed their answer to: [A]
+Daimon has changed their answer to: [B]
+
+Joe has changed their answer to: [B]
+Joe has changed their answer to: [A]
+Joe has changed their answer to: [A]
+Joe has changed their answer to: [A]
+
+Alex has changed their answer to: [B]
+Alex has changed their answer to: [B]
+
+Edward has changed their answer to: [A]
+Edward has changed their answer to: [A]
+
+Daimon has changed their answer to: [B]
+
+James has changed their answer to: [B]
+James has changed their answer to: [A]
+
+Jeremy has changed their answer to: [B]
+Jeremy has changed their answer to: [A]
+
+Charlie has changed their answer to: [B]
+
+Marcus has changed their answer to: [A]
+Marcus has changed their answer to: [B]
+
+Tyrone has changed their answer to: [B]
+Tyrone has changed their answer to: [B]
+Tyrone has changed their answer to: [B]
+Tyrone has changed their answer to: [B]
+Tyrone has changed their answer to: [A]
+
+Batman has changed their answer to: [B]
+Batman has changed their answer to: [B]
+Batman has changed their answer to: [B]
+Batman has changed their answer to: [B]
+Batman has changed their answer to: [B]
+
+Sophie has changed their answer to: [B]
+Sophie has changed their answer to: [A]
+
+Edward's answer: [B]
+Edward is correct!
+
+Addision's answer: [A]
+Addision is incorrect!
+
+Charlie's answer: [B]
+Charlie is correct!
+
+Tom's answer: [B]
+Tom is correct!
+
+Thor's answer: [A]
+Thor is incorrect!
+
+Oliver's answer: [A]
+Oliver is incorrect!
+
+Edward's answer: [B]
+Edward is correct!
+
+Dwight's answer: [A]
+Dwight is incorrect!
+
+Thor's answer: [A]
+Thor is incorrect!
+
+Julie's answer: [B]
+Julie is correct!
+
+James's answer: [B]
+James is correct!
+
+Thomson's answer: [B]
+Thomson is correct!
+
+Charlie's answer: [B]
+Charlie is correct!
+
+Victor's answer: [A]
+Victor is incorrect!
+
+Daimon's answer: [B]
+Daimon is correct!
+
+Joe's answer: [A]
+Joe is incorrect!
+
+Alex's answer: [B]
+Alex is correct!
+
+Edward's answer: [A]
+Edward is incorrect!
+
+Daimon's answer: [B]
+Daimon is correct!
+
+James's answer: [A]
+James is incorrect!
+
+Jeremy's answer: [A]
+Jeremy is incorrect!
+
+Charlie's answer: [B]
+Charlie is correct!
+
+Marcus's answer: [B]
+Marcus is correct!
+
+Tyrone's answer: [A]
+Tyrone is incorrect!
+
+Batman's answer: [B]
+Batman is correct!
+
+Sophie's answer: [A]
+Sophie is incorrect!
+
+-------------------------------
+Question: : A, B, C, D, E, or F?
+Answer Choices: [A, B]
+Correct Answer: [B]
+
+SUBMISSION RESULTS:
+Correct Students: 14
+Incorrect Students: 12
+Answer Statistics:{A=12, B=14}
+-------------------------------
+RESETTING SERVICE
+Testing Multi Selection Question while Simulating Students changing Answers
+-------------------------------
+Edward has changed their answer to: [E, D]
+Edward has changed their answer to: [C, F]
+
+Addision has changed their answer to: [E, D]
+Addision has changed their answer to: [B, E, C, F]
+Addision has changed their answer to: [C, D, E]
+Addision has changed their answer to: [B, C, E]
+Addision has changed their answer to: [F]
+
+Charlie has changed their answer to: [F]
+Charlie has changed their answer to: [B, E]
+Charlie has changed their answer to: [D, C, A]
+Charlie has changed their answer to: [C, B, F]
+Charlie has changed their answer to: [A, F]
+
+Tom has changed their answer to: [D, B, E]
+
+Thor has changed their answer to: [C, F]
+Thor has changed their answer to: [A, C, B]
+
+Oliver has changed their answer to: [B]
+Oliver has changed their answer to: [B, F, E]
+Oliver has changed their answer to: [A]
+
+Edward has changed their answer to: [C, B]
+
+Dwight has changed their answer to: [C]
+Dwight has changed their answer to: [B, C, D]
+Dwight has changed their answer to: [A]
+
+Thor has changed their answer to: [F, D, A, E]
+Thor has changed their answer to: [C, A, F, D]
+Thor has changed their answer to: [B, C]
+
+Julie has changed their answer to: [D, F]
+Julie has changed their answer to: [B, D, F, A]
+Julie has changed their answer to: [D, B, F, E]
+Julie has changed their answer to: [A, F]
+
+James has changed their answer to: [B, E, C]
+James has changed their answer to: [A, F, D, B]
+James has changed their answer to: [A, C, D, E, F]
+James has changed their answer to: [C, A, E, F]
+
+Thomson has changed their answer to: [F, C, B]
+Thomson has changed their answer to: [A]
+
+Charlie has changed their answer to: [F, D, C]
+Charlie has changed their answer to: [D, E]
+
+Victor has changed their answer to: [F, D, C, E]
+Victor has changed their answer to: [A, F, C, D]
+Victor has changed their answer to: [E, F]
+Victor has changed their answer to: [A, E, C, F]
+
+Daimon has changed their answer to: [E]
+Daimon has changed their answer to: [E]
+Daimon has changed their answer to: [C]
+
+Joe has changed their answer to: [F, C, A]
+Joe has changed their answer to: [A]
+
+Alex has changed their answer to: [E, B]
+Alex has changed their answer to: [B, C, A]
+
+Edward has changed their answer to: [F, E, B]
+Edward has changed their answer to: [C]
+
+Daimon has changed their answer to: [C]
+Daimon has changed their answer to: [F]
+Daimon has changed their answer to: [F]
+Daimon has changed their answer to: [C]
+
+James has changed their answer to: [A]
+James has changed their answer to: [B]
+
+Jeremy has changed their answer to: [B, F, C, E]
+
+Charlie has changed their answer to: [D, C, A]
+Charlie has changed their answer to: [A, E]
+
+Marcus has changed their answer to: [E]
+Marcus has changed their answer to: [F]
+
+Tyrone has changed their answer to: [C, F, A, E, D, B]
+Tyrone has changed their answer to: [F, D, B, A]
+Tyrone has changed their answer to: [C]
+Tyrone has changed their answer to: [C]
+Tyrone has changed their answer to: [C]
+
+Batman has changed their answer to: [C]
+
+Sophie has changed their answer to: [A, C, E, D, F, B]
+Sophie has changed their answer to: [D, B, C, F]
+Sophie has changed their answer to: [C, E, D]
+Sophie has changed their answer to: [A, B, F]
+
+Edward's answer: [C, F]
+Edward is incorrect!
+
+Addision's answer: [F]
+Addision is incorrect!
+
+Charlie's answer: [A, F]
+Charlie is incorrect!
+
+Tom's answer: [B, D, E]
+Tom is incorrect!
+
+Thor's answer: [A, B, C]
+Thor is incorrect!
+
+Oliver's answer: [A]
+Oliver is incorrect!
+
+Edward's answer: [B, C]
+Edward is incorrect!
+
+Dwight's answer: [A]
+Dwight is incorrect!
+
+Thor's answer: [B, C]
+Thor is incorrect!
+
+Julie's answer: [A, F]
+Julie is incorrect!
+
+James's answer: [A, C, E, F]
+James is incorrect!
+
+Thomson's answer: [A]
+Thomson is incorrect!
+
+Charlie's answer: [D, E]
+Charlie is incorrect!
+
+Victor's answer: [A, C, E, F]
+Victor is incorrect!
+
+Daimon's answer: [C]
+Daimon is incorrect!
+
+Joe's answer: [A]
+Joe is incorrect!
+
+Alex's answer: [A, B, C]
+Alex is incorrect!
+
+Edward's answer: [C]
+Edward is incorrect!
+
+Daimon's answer: [C]
+Daimon is incorrect!
+
+James's answer: [B]
+James is incorrect!
+
+Jeremy's answer: [B, C, E, F]
+Jeremy is incorrect!
+
+Charlie's answer: [A, E]
+Charlie is incorrect!
+
+Marcus's answer: [F]
+Marcus is incorrect!
+
+Tyrone's answer: [C]
+Tyrone is incorrect!
+
+Batman's answer: [C]
+Batman is incorrect!
+
+Sophie's answer: [A, B, F]
+Sophie is incorrect!
+
+-------------------------------
+Question: : A, B, C, D, E, or F?
+Answer Choices: [A, B, C, D, E, F]
+Correct Answer: [A, B, D, E, F]
+
+SUBMISSION RESULTS:
+Correct Students: 0
+Incorrect Students: 26
+Answer Statistics:{A=12, B=8, C=13, D=2, E=6, F=9}
+-------------------------------
+RESETTING SERVICE
+Testing Single Selection Question while Simulating Students trying to submit answers when answers are already submitted
+-------------------------------
+Edward's answer: [A]
+Edward is incorrect!
+
+Addision's answer: [B]
+Addision is correct!
+
+Charlie's answer: [A]
+Charlie is incorrect!
+
+Tom's answer: [B]
+Tom is correct!
+
+Thor's answer: [A]
+Thor is incorrect!
+
+Oliver's answer: [B]
+Oliver is correct!
+
+Edward's answer: [A]
+Edward is incorrect!
+
+Dwight's answer: [B]
+Dwight is correct!
+
+Thor's answer: [B]
+Thor is correct!
+
+Julie's answer: [A]
+Julie is incorrect!
+
+James's answer: [A]
+James is incorrect!
+
+Thomson's answer: [A]
+Thomson is incorrect!
+
+Charlie's answer: [B]
+Charlie is correct!
+
+Victor's answer: [A]
+Victor is incorrect!
+
+Daimon's answer: [B]
+Daimon is correct!
+
+Joe's answer: [A]
+Joe is incorrect!
+
+Alex's answer: [B]
+Alex is correct!
+
+Edward's answer: [A]
+Edward is incorrect!
+
+Daimon's answer: [A]
+Daimon is incorrect!
+
+James's answer: [B]
+James is correct!
+
+Jeremy's answer: [B]
+Jeremy is correct!
+
+Charlie's answer: [B]
+Charlie is correct!
+
+Marcus's answer: [B]
+Marcus is correct!
+
+Tyrone's answer: [A]
+Tyrone is incorrect!
+
+Batman's answer: [B]
+Batman is correct!
+
+Sophie's answer: [A]
+Sophie is incorrect!
+
+-------------------------------
+Question: : A, B, C, D, E, or F?
+Answer Choices: [A, B]
+Correct Answer: [B]
+
+SUBMISSION RESULTS:
+Correct Students: 13
+Incorrect Students: 13
+Answer Statistics:{A=13, B=13}
+Edward has changed their answer to: [A]
+Edward has changed their answer to: [A]
+
+Addision has changed their answer to: [A]
+Addision has changed their answer to: [A]
+
+Charlie has changed their answer to: [A]
+Charlie has changed their answer to: [B]
+Charlie has changed their answer to: [B]
+Charlie has changed their answer to: [A]
+
+Tom has changed their answer to: [B]
+Tom has changed their answer to: [B]
+Tom has changed their answer to: [A]
+Tom has changed their answer to: [B]
+Tom has changed their answer to: [B]
+
+Thor has changed their answer to: [A]
+Thor has changed their answer to: [A]
+
+Oliver has changed their answer to: [A]
+Oliver has changed their answer to: [A]
+
+Edward has changed their answer to: [B]
+Edward has changed their answer to: [B]
+Edward has changed their answer to: [A]
+Edward has changed their answer to: [B]
+
+Dwight has changed their answer to: [A]
+Dwight has changed their answer to: [A]
+Dwight has changed their answer to: [A]
+Dwight has changed their answer to: [B]
+Dwight has changed their answer to: [A]
+
+Thor has changed their answer to: [B]
+Thor has changed their answer to: [A]
+Thor has changed their answer to: [A]
+Thor has changed their answer to: [A]
+
+Julie has changed their answer to: [A]
+Julie has changed their answer to: [B]
+Julie has changed their answer to: [A]
+
+James has changed their answer to: [A]
+James has changed their answer to: [B]
+James has changed their answer to: [B]
+
+Thomson has changed their answer to: [A]
+Thomson has changed their answer to: [B]
+Thomson has changed their answer to: [B]
+Thomson has changed their answer to: [B]
+Thomson has changed their answer to: [B]
+
+Charlie has changed their answer to: [B]
+Charlie has changed their answer to: [B]
+Charlie has changed their answer to: [A]
+Charlie has changed their answer to: [B]
+
+Victor has changed their answer to: [A]
+
+Daimon has changed their answer to: [A]
+Daimon has changed their answer to: [A]
+Daimon has changed their answer to: [A]
+Daimon has changed their answer to: [A]
+Daimon has changed their answer to: [A]
+
+Joe has changed their answer to: [B]
+Joe has changed their answer to: [A]
+
+Alex has changed their answer to: [B]
+Alex has changed their answer to: [B]
+Alex has changed their answer to: [A]
+Alex has changed their answer to: [A]
+
+Edward has changed their answer to: [B]
+Edward has changed their answer to: [A]
+Edward has changed their answer to: [B]
+Edward has changed their answer to: [B]
+Edward has changed their answer to: [B]
+
+Daimon has changed their answer to: [A]
+Daimon has changed their answer to: [A]
+
+James has changed their answer to: [B]
+James has changed their answer to: [B]
+James has changed their answer to: [B]
+
+Jeremy has changed their answer to: [A]
+Jeremy has changed their answer to: [A]
+
+Charlie has changed their answer to: [A]
+Charlie has changed their answer to: [B]
+
+Marcus has changed their answer to: [B]
+Marcus has changed their answer to: [B]
+Marcus has changed their answer to: [A]
+
+Tyrone has changed their answer to: [A]
+Tyrone has changed their answer to: [A]
+
+Batman has changed their answer to: [B]
+Batman has changed their answer to: [B]
+Batman has changed their answer to: [B]
+Batman has changed their answer to: [B]
+Batman has changed their answer to: [B]
+
+Sophie has changed their answer to: [B]
+Sophie has changed their answer to: [A]
+Sophie has changed their answer to: [A]
+
+Edward's answer: [A]
+Answer already submitted by Edward
+
+Addision's answer: [A]
+Answer already submitted by Addision
+
+Charlie's answer: [A]
+Answer already submitted by Charlie
+
+Tom's answer: [B]
+Answer already submitted by Tom
+
+Thor's answer: [A]
+Answer already submitted by Thor
+
+Oliver's answer: [A]
+Answer already submitted by Oliver
+
+Edward's answer: [B]
+Answer already submitted by Edward
+
+Dwight's answer: [A]
+Answer already submitted by Dwight
+
+Thor's answer: [A]
+Answer already submitted by Thor
+
+Julie's answer: [A]
+Answer already submitted by Julie
+
+James's answer: [B]
+Answer already submitted by James
+
+Thomson's answer: [B]
+Answer already submitted by Thomson
+
+Charlie's answer: [B]
+Answer already submitted by Charlie
+
+Victor's answer: [A]
+Answer already submitted by Victor
+
+Daimon's answer: [A]
+Answer already submitted by Daimon
+
+Joe's answer: [A]
+Answer already submitted by Joe
+
+Alex's answer: [A]
+Answer already submitted by Alex
+
+Edward's answer: [B]
+Answer already submitted by Edward
+
+Daimon's answer: [A]
+Answer already submitted by Daimon
+
+James's answer: [B]
+Answer already submitted by James
+
+Jeremy's answer: [A]
+Answer already submitted by Jeremy
+
+Charlie's answer: [B]
+Answer already submitted by Charlie
+
+Marcus's answer: [A]
+Answer already submitted by Marcus
+
+Tyrone's answer: [A]
+Answer already submitted by Tyrone
+
+Batman's answer: [B]
+Answer already submitted by Batman
+
+Sophie's answer: [A]
+Answer already submitted by Sophie
+
+-------------------------------
+Question: : A, B, C, D, E, or F?
+Answer Choices: [A, B]
+Correct Answer: [B]
+
+SUBMISSION RESULTS:
+Correct Students: 13
+Incorrect Students: 13
+Answer Statistics:{A=13, B=13}
+-------------------------------
+RESETTING SERVICE
